@@ -1,0 +1,27 @@
+{
+  "asset": "assets/anan.png",
+  "sha256": "7babc264f803d367023e84bbaca40fcf88e3cfdce624686f21805a74a973634e",
+  "checked_on": "2026-11-05",
+  "structural_checks": {
+    "ok": true,
+    "format": "PNG",
+    "mode": "RGBA",
+    "width": 1536,
+    "height": 2288,
+    "rows": 11,
+    "columns": 8,
+    "transparent_rgb_residue_pixels": 0,
+    "errors": [],
+    "warnings": []
+  },
+  "neutral_frame": {
+    "row": 0,
+    "column": 6,
+    "copied_from": {
+      "row": 0,
+      "column": 0
+    }
+  },
+  "original_animation_pixels_preserved": true,
+  "scope": "Sprite sheet structure, file integrity, animation metadata, and local installation manifest. Desktop visibility is enabled by selecting An An in the app."
+}
